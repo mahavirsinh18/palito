@@ -1,0 +1,22 @@
+[14-Jun-2019 10:16:33 UTC] PHP Fatal error:  Call to undefined method YiiMailer::getErrors() in /home/devamcodr/public_html/web/witancapital/protected/controllers/LeaduserController.php on line 193
+[14-Jun-2019 10:16:48 UTC] PHP Fatal error:  Call to undefined method YiiMailer::getErrors() in /home/devamcodr/public_html/web/witancapital/protected/controllers/LeaduserController.php on line 193
+[14-Jun-2019 10:17:02 UTC] PHP Fatal error:  Call to undefined method YiiMailer::getErrors() in /home/devamcodr/public_html/web/witancapital/protected/controllers/LeaduserController.php on line 244
+[14-Jun-2019 10:17:14 UTC] PHP Fatal error:  Call to undefined method YiiMailer::getErrors() in /home/devamcodr/public_html/web/witancapital/protected/controllers/LeaduserController.php on line 244
+[26-Jul-2019 05:11:48 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/devamcodr/public_html/web/witancapital/protected/views/supporttickets/view.php on line 97
+[26-Jul-2019 05:11:50 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/devamcodr/public_html/web/witancapital/protected/views/supporttickets/view.php on line 97
+[30-Jul-2019 13:39:57 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 105
+[30-Jul-2019 13:51:51 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:52:34 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:52:49 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:52:49 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:52:51 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:53:13 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:53:14 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:53:15 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[30-Jul-2019 13:53:15 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/devamcodr/public_html/web/witancapital/protected/controllers/SupportticketsController.php on line 141
+[31-Jul-2019 11:33:47 UTC] PHP Fatal error:  Cannot redeclare class mpdf in /home/devamcodr/public_html/web/witancapital/protected/vendor/mpdf/mpdf.php on line 90
+[31-Jul-2019 11:33:55 UTC] PHP Fatal error:  Cannot redeclare class mpdf in /home/devamcodr/public_html/web/witancapital/protected/vendor/mpdf/mpdf.php on line 90
+[31-Jul-2019 11:34:24 UTC] PHP Fatal error:  Cannot redeclare class mpdf in /home/devamcodr/public_html/web/witancapital/protected/vendor/mpdf/mpdf.php on line 90
+[28-Aug-2019 07:30:38 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/devamcodr/public_html/web/witancapital/protected/views/user/profile.php on line 142
+[04-Nov-2019 17:40:54 UTC] PHP Fatal error:  Cannot redeclare SiteController::actionHome() in /home/devamcodr/public_html/web/palito/protected/controllers/SiteController.php on line 48
+[04-Nov-2019 17:40:58 UTC] PHP Fatal error:  Cannot redeclare SiteController::actionHome() in /home/devamcodr/public_html/web/palito/protected/controllers/SiteController.php on line 48
